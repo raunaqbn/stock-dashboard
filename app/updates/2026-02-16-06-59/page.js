@@ -10,7 +10,7 @@ export default function StockUpdate() {
         <h1 style={{ fontSize: '48px', margin: '20px 0 10px 0', background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>
           Test Update - Market Analysis
         </h1>
-        <p style={{ color: '#888', fontSize: '14px' }}> updateDate}</p>
+        <p style={{ color: '#888', fontSize: '14px' }}>{updateDate}</p>
       </div>
 
       <div style={{ background: 'linear-gradient(135deg, #1e1e1e 0%, #2a2a2a 100%)', padding: '30px', borderRadius: '16px', border: '1px solid #333', lineHeight: '1.8' }}>
