@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Stock Analysis Dashboard',
-  description: 'Daily stock analysis with charts and trade recommendations',
+  title: 'Stock Analysis Dashboard - AVGO META PANW NVDA GOOG',
+  description: 'Track AVGO, META, PANW, NVDA, GOOG with real-time analysis and trade setups',
   viewport: 'width=device-width, initial-scale=1, maximum-scale=5',
 }
 
