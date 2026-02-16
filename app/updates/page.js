@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react';
 
 export default function UpdatesIndex() {
   const updates = [
+    { date: '2026-02-16', title: '9-Stock Portfolio Analysis - Complete Coverage AVGO, AMZN, META, NVDA, PANW, GOOG, PNW, SNOW, SHOP', slug: '2026-02-16-09-30' },
     { date: '2026-02-16', title: 'Comprehensive Stock Analysis - AVGO, META, PANW, NVDA, GOOG', slug: '2026-02-16-08-00' },
     { date: '2026-02-16', title: 'Daily Market Wrap - Feb 16', slug: '2026-02-16-07-00' },
     { date: '2026-02-16', title: 'Initial Dashboard Launch', slug: '2026-02-16-06-59' }
