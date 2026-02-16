@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "stock-dashboard",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/next"
+    }
+  ]
+}
